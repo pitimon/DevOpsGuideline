@@ -1,5 +1,5 @@
 # DevOps และ DevSecOps: การพัฒนาการสำหรับระบบสารสนเทศยุคใหม่
-by P.Itarun / 17 Feb 2025
+prompt by P.Itarun / Feb 17, 2025
 
 ![devops](./img/devops.jpg)
 
